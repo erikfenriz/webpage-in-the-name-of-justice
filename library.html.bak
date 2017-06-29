@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Personal Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="personal.html">Main</a>
+                </li>
+                <li>
+                    <p id="symbol">&#969;</p>
+                </li>
+                <li><a href="Library.html">Library</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <h1>Library</h1>
+	
+
+    
+  
+        <footer class="copyright">
+            <p id="copyright">Copyright &copy; 2017; Still Photography Credit: Erik Rybalkin</p>
+        </footer>
+</body>
+
+</html>
